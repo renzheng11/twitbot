@@ -1,6 +1,6 @@
 #ExampleBot
 
-This bot retweets the latest tweet using the "#mediaarts" hashtag. It attempts to retweet once per hour.
+This bot tweets the latest tweet using the "#cats" hashtag and fills it with cat sounds.
 
 _Note: you must be comfortable using your computer's command line interface to use this bot. If you've never used it, there are tutorials for [Mac OSX](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) and [Windows](http://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/)._
 
@@ -45,4 +45,4 @@ Now type the following in the command line in your project directory:
 
 `node bot.js`
 
-Hopefully at this point you see a message like "Success! Check your bot, it should have retweeted something." Check the Twitter account for your bot, and it should have retweeted a tweet with the #mediaarts hashtag.
+Hopefully at this point you see a message like "Success! Check your bot, it should have retweeted something." Check the Twitter account for your bot, and it should have retweeted a tweet with the #cats hashtag.
